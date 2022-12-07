@@ -1,0 +1,8 @@
+Given that the p-value is less than the significance level (0.05), there is strong
+evidence to reject the null hypothesis. Furthermore, a 95% CI (Confidence Interval)
+[54] between 2.97% & 5.70% indicates the lower and upper bound for the true average
+increase in CHR (If the study were conducted with a larger population). Therefore, it
+is reasonable to conclude that the increase in CHR between the two caching schemes
+is not due to sampling error and is statistically significant. In the next section, we
+will examine potential correlations between the cache hit ratios and some of the
+demographic data.
